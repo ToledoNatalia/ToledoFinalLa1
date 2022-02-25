@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1645117557 source:c:\users\toled\onedrive\escritorio\finallab1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1644896357 c:\users\toled\onedrive\escritorio\finallab1\linkedlist.h
+
+1645743589 source:c:\users\toled\onedrive\escritorio\finallab1\main.c
+	"corredor.h"
+	"parser.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"validacion.h"
+	"LinkedList.h"
+
+1645746190 c:\users\toled\onedrive\escritorio\finallab1\corredor.h
+	"LinkedList.h"
+
+1644896052 c:\users\toled\onedrive\escritorio\finallab1\parser.h
+	"LinkedList.h"
+	"corredor.h"
+	<stdio.h>
+	<stdlib.h>
+
+1644895793 c:\users\toled\onedrive\escritorio\finallab1\validacion.h
+	"LinkedList.h"
+	"corredor.h"
+	<stdio.h>
+	<stdlib.h>
+
+1645744250 source:c:\users\toled\onedrive\escritorio\finallab1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"corredor.h"
+
+1644897309 source:c:\users\toled\onedrive\escritorio\finallab1\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validacion.h"
+
